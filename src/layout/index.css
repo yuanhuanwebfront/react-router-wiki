@@ -1,0 +1,19 @@
+.top-nav{
+    width: 200px;
+    float: left;
+}
+.top-nav li{
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid #e1e1e1;
+    border-top: none;
+}
+.top-nav li .active{
+    color: #409EFF;
+}
+.view-content{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 30px 20px 30px 240px;
+}
